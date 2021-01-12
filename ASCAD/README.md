@@ -1,0 +1,1 @@
+If you cannot open the 'ASCAD\_CDPA\_Demo.ipynb' notebook in Github, please try to open it using the nbviewer online: [https://nbviewer.jupyter.org/github/CDPA-SCA/Cross-Device-Profiled-Attack/blob/main/ASCAD/ASCAD_CDPA_Demo.ipynb](https://nbviewer.jupyter.org/github/CDPA-SCA/Cross-Device-Profiled-Attack/blob/main/ASCAD/ASCAD_CDPA_Demo.ipynb)
