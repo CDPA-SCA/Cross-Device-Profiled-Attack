@@ -1,6 +1,6 @@
 # Cross-Device-Profiled-Attack
  
-This repository contains Demos and datas on how to reproduce the results presented in "Cross-Device Profiled Side-Channel Attack with Unsupervised Domain Adaptation."
+This repository contains Demos and data on how to reproduce the results presented in "Cross-Device Profiled Side-Channel Attack with Unsupervised Domain Adaptation."
 
 
 Each dataset is composed of the following folders and script:
