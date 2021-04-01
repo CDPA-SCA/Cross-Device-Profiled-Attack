@@ -1,1 +1,0 @@
-If you cannot open the ' DPA_v4\_CDPA\_Demo.ipynb' notebook in Github, please try to open it using the nbviewer online: [https://nbviewer.jupyter.org/github/CDPA-SCA/Cross-Device-Profiled-Attack/blob/main/DPA_contest-v4/DPA_v4_CDPA_Demo.ipynb](https://nbviewer.jupyter.org/github/CDPA-SCA/Cross-Device-Profiled-Attack/blob/main/DPA_contest-v4/DPA_v4_CDPA_Demo.ipynb)
