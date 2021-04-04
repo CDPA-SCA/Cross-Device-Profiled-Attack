@@ -1,2 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+Different_Devices/CHES_CTF_2018/Data/device_c__dataset.zip filter=lfs diff=lfs merge=lfs -text
+Different_Devices/CHES_CTF_2018/models/pre_trained.pth filter=lfs diff=lfs merge=lfs -text
+Different_Devices/CHES_CTF_2018/models/best_valid_loss_finetuned.pth filter=lfs diff=lfs merge=lfs -text
