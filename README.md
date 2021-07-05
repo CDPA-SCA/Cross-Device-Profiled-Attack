@@ -7,9 +7,8 @@ This repository contains Demos and data on how to reproduce the results presente
 ### Different_Devices
 
 1. **XMEGA**. Unprotected software AES-128 implementation. Side-channel traces are acquired from eight XMEGA chips. The secret keys (first byte) for the eight devices are set to 0x01, 0x02, 0x03, 0x04, 0x05, 0x06, 0x07, 0x08.
-2. **XMEGA_masked**. Simulated masking scheme implemented by LD and ST assembly instructions. Side-channel traces are acquired from eight XMEGA chips. The secret keys (first byte) for the eight devices are set to 0x01, 0x02, 0x03, 0x04, 0x05, 0x06, 0x07, 0x08.
-3. **SAKURA_AES**. Unprotected hardware AES-128 implementation. Side-channel traces are acquired from three SAKURA-G boards. The last round keys (second byte) for the three devices are 0x21, 0xCD, and 0x8F.
-4. **CHES_CTF_2018**. Masked software AES-128 implementation. We use the dataset provided by [Perin et al](https://github.com/AISyLab/EnsembleSCA "Perin et al"). The secret keys  (first byte) for the profiling and target devices are 0x17 and 0x2E. This dataset is available at [https://github.com/AISyLab/EnsembleSCA](https://github.com/AISyLab/EnsembleSCA).
+2. **SAKURA_AES**. Unprotected hardware AES-128 implementation. Side-channel traces are acquired from three SAKURA-G boards. The last round keys (second byte) for the three devices are 0x21, 0xCD, and 0x8F.
+3. **CHES_CTF_2018**. Masked software AES-128 implementation. We use the dataset provided by [Perin et al](https://github.com/AISyLab/EnsembleSCA "Perin et al"). The secret keys  (first byte) for the profiling and target devices are 0x17 and 0x2E. This dataset is available at [https://github.com/AISyLab/EnsembleSCA](https://github.com/AISyLab/EnsembleSCA).
 
 ### Different_Implementations
 We simulate different implementations by adding artificial countermeasures/noise to the original [ASCAD](https://github.com/ANSSI-FR/ASCAD "ASCAD") dataset. These experiments simulate a complex attack scenario that the target device is treated as a black box that can turn on side-channel countermeasures. The added countermeasures/noise include:
